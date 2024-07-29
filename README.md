@@ -78,12 +78,11 @@ Mini bootcamp (11 sessions/4 weeks) in Automation testing, covering skills in we
 
 * Testing skill & bugs management
 * GIT
-* programming basic-fundamental (Node.js)
+* programming basic-fundamental (JavaScript)
 * Web automation (WebDriverIO)
 * API automation (Super Test)
 * Load test (Jmeter)
 
-Kamu juga akan praktik menggunakan berbagai tools yang digunakan oleh QA Engineer seperti Node.js, Postman, Super Test, Jmeter, hingga WebDriverIO. Setelah menyelesaikan program, kamu akan menghasilkan portofolio dari 10 project individu, mendapatkan bimbingan karier hingga fasilitas Job Connector.
 
 __Quality Assurance Automation__  
 *bootcamp by Sanbercode*  
@@ -102,5 +101,6 @@ Topic:
 [Test Plan](https://drive.google.com/file/d/1KOF2en0d_FrZp8iSeLrPYc7nstS-rtZV/view?usp=sharing)
 [Test Case](https://drive.google.com/file/d/1tZjlrqzS8ZvuVXNvQa0powILpFuDi9UT/view?usp=drive_link)
 [Bug Report](https://drive.google.com/file/d/1C5kck1_y8XXsWUvbh0USq0_Ac31KRhM9/view?usp=sharing)
+
 
 
