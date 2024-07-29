@@ -21,7 +21,7 @@ To stay ahead in the dynamic field of QA and to pursuit career growth, I have st
 [My Linkedin profile](https://www.linkedin.com/in/nadia-rizki/)
 
 
-My experience 
+## My experience 
 With 4 years in manual testing, I have worked extensively in both logistics and fintech sectors. At a logistics company, I tested both mobile applications for drivers and a web portal for operators. This role involved identifying bugs, reporting issues, and collaborating with development teams to enhance software functionality and user experience.
 
 In my role as a Quality Assurance Analyst at a fintech company, I specialized in testing internal finance systems and payment gateway integrations with merchants. My work included developing and executing test cases to ensure seamless and accurate payment processing. These experiences have provided me with a broad skill set and a deep understanding of various industry requirements.
@@ -34,14 +34,14 @@ Confluence - storing informations and documents about project
 Chrome Devtools - for better testing and improving bug reports
 Chucker - analyze logs and API response from mobile app
 gchat - communication within the team
+Sequence Ace - SQL database
 Git - for better work in development team and controlling software versions
 GitHub - supporting Git and preparing my repositories
 Postman - API testing
-Katalon Sudio - Web and automat
+Katalon Sudio - Web and automation testing
 Bamboo - for ru
 Source Tree
 Intelij
-Sequence Ace - SQL database
 
 
 ## Technical Skills
