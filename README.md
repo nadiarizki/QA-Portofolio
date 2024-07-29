@@ -26,59 +26,25 @@ Jira & SVN - project management and bug tracking
 Cucumber Studio - write test cases in Gherkin language
 Confluence - storing informations and documents about project
 Chrome Devtools - for better testing and improving bug reports
-Chucker
+Chucker - analyze logs and API response from mobile app
 gchat - communication within the team
 Git - for better work in development team and controlling software versions
 GitHub - supporting Git and preparing my repositories
-Markdown - for better and easy formatting GitHub
 Postman - API testing
 Katalon Sudio - Web and automat
-Bamboo
+Bamboo - for ru
 Source Tree
 Intelij
-Sequence Ace
+Sequence Ace - SQL database
 
 
-Tech skills 💻
-SQL		
-Rest API testing
-Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
-Software testing
-Creating test cases
-Reporting bugs
-Creating bug reports
-experience with testing web applications
-performing smoke tests
-testing UAT
-scrum workflow
+## Tech Skills 💻
 
+  * Perform manual functional and usability testing of web and mobile application
+  * write comprehensive and efficient test cases in gherkin language
+  * Perform manual testing of API using Postman
+  * Create comprehensive bug reports and provide detailed session reports
 
-
-## Tech Skills
-
-__Manual testing__
-  * can perform manual functional and usability testing of website, mobile application and API
-
-__Test analysis & design__
-  * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-  * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
-
-__API testing__
-  * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for educational purposes
-  * know how to manipulate requests and create test cases using the SoapUI tool
-
-__Exploratory testing__
-  * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
-
-__Test documentation__
-  * can create test cases and checklists and know how and in which situations to use them effectively
-  * able to prepare comprehensive bug reports and provide detailed session reports
-
-__SQL databases__
-  * can write complex requests using subqueries
-  * familiar with the use of aliases and wildcards
-  * know the difference between joins and unions and can use them in queries
 
 ## Soft skills 📁
 Detail oriented
@@ -91,11 +57,17 @@ Analytical skill
 QA Engineer Bootcamp - Digital Skola
 Quality Assurance Automation Bootcamp - Sanbercode
 
-__Automation Testing using Selenium Katalon Studio, Levels 1-4__  
+__Automation Testing using Selenium Katalon Studio__  
 *online courses by [Udemy]([https://www.udemy.com/user/bryanl/](https://www.udemy.com/course/automation-testing-using-selenium-katalon-studio/?couponCode=KEEPLEARNING)*  
 An intensive course in Web automation  with Katalon Studio.  
 [Link to the certificate of the Level 1](..)  
 *in progress*
+
+* Web application automation and test framework
+* Mouse and keyboard action for automation
+* Handling the actions which can be perform on the browser for automation
+Test Suite creation and execution them in sequence/parallel
+Continuous Integration
 
 __QA Engineer Bootcamp__  
 *bootcamp by Digital Skola*  
@@ -107,17 +79,17 @@ __Quality Assurance Automation__
 An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.  
 
 Topic:
-Automation Test Case
-Postman
-Javascipt Automation
-Katalon
-Webdriver IO
-Appium
-Selenium Javascript
-K6
-Performance Test
-Cypress
-Mocha & Chai
+* Automation Test Case
+* Postman
+* Javascipt Automation
+* Katalon
+* Webdriver IO
+* Appium
+* Selenium Javascript
+* K6
+* Performance Test
+* Cypress
+* Mocha & Chai
 
 [Link to the certificate](....)
 
