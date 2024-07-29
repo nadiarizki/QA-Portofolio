@@ -37,12 +37,12 @@ In my role as a Quality Assurance Analyst at a fintech company, I specialized in
 * Chrome Devtools - for better testing and improving bug reports
 * Chucker - analyze logs and API response from mobile app
 * gchat - communication within the team
-* Sequence Ace - SQL database
+* Sequence Ace - for verifying data on database
 * Postman - API testing
 * Katalon Sudio - Web and automation testing
 * Bamboo - run automation test
 * Intelij - run automation test locally
-* Source Tree - supporting Git 
+* Source Tree - pull the latest version of automation script to local
 
 
 
