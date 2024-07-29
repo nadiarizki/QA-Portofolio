@@ -13,7 +13,7 @@
 
 
 ## About me
-Hi, my name is Nadia. I am a dedicated QA professional with 4 years of experience in manual testing. My work has primarily involved testing web and mobile applications, allowing me to develop a keen eye for detail and a strong analytical skills to ensure high-quality software deliver.
+Hi, my name is Nadia. I am a dedicated QA professional with 4 years of experience in manual testing. My work has primarily involved testing web and mobile applications, allowing me to develop a keen eye for detail and a strong analytical skills to ensure high-quality software deliver. 
 
 To stay ahead in the dynamic field of QA and to pursuit career growth, I have started an intensive learning journey in automation testing by enrolling in a bootcamp, completing online courses and attending seminars. My aspiration is to evolve into a hybrid QA role, where I can leverage both manual and automated testing to enhance software quality. I am passionate about learning and innovation, ready to take on new challenges and contribute to cutting-edge projects.
 
@@ -22,7 +22,7 @@ To stay ahead in the dynamic field of QA and to pursuit career growth, I have st
 
 
 ## My experience 
-With 4 years in manual testing, I have worked extensively in both logistics and fintech sectors. At a logistics company, I tested both mobile applications for drivers and a web portal for operators. This role involved identifying bugs, reporting issues, and collaborating with development teams to enhance software functionality and user experience.
+With 4 years in manual testing, I have worked extensively in both logistics and fintech sectors. At a logistics company, I tested both mobile applications for drivers and a web portal for operators. This role involved identifying bugs, reporting issues, and collaborating with development teams to enhance software functionality and user experience. This experience allowed me to develop strong adaptability and communication skills in English, as I collaborated with teams across different regions and managed diverse testing scenarios.
 
 In my role as a Quality Assurance Analyst at a fintech company, I specialized in testing internal finance systems and payment gateway integrations with merchants. My work included developing and executing test cases to ensure seamless and accurate payment processing. These experiences have provided me with a broad skill set and a deep understanding of various industry requirements.
 
