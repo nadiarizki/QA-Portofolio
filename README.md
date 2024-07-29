@@ -1,17 +1,18 @@
 # QA-Portofolio
 
 - [About me](#about-me)
-- [CV](#cv)
-- [Skills](#skills)
+- [Experience](#my-experience)
+- [Technical Skills](#technical-skill)
 - [Tools](#tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
+  * [Test Plan](#test-plan)
+  * [Test Cases](#test-cases)
+  * [Bug Report](#bug-report)
 
 
 
-## About me 👋
+## About me
 Hi, my name is Nadia. 
 
 
@@ -20,6 +21,7 @@ Hi, my name is Nadia.
 
 My experience 🏢
 Being 
+
 
 ## Tools 🔧
 Jira & SVN - project management and bug tracking
@@ -38,22 +40,21 @@ Intelij
 Sequence Ace - SQL database
 
 
-## Tech Skills 💻
-
-  * Perform manual functional and usability testing of web and mobile application
-  * write comprehensive and efficient test cases in gherkin language
-  * Perform manual testing of API using Postman
-  * Create bug reports and provide detailed session reports
-
-
-## Soft skills 📁
-Detail oriented.
-Adaptibility.
-Time management.
-Analytical skill.
+## Technical Skills
+* Perform manual functional and usability testing of web and mobile application
+* write comprehensive and efficient test cases in gherkin language
+* Perform manual testing of API using Postman
+* Create bug reports and provide detailed session reports
 
 
-## Courses 📓
+## Soft skills
+* Detail oriented
+* Adaptibility
+* Time management
+* Analytical skill
+
+
+## Courses 
 QA Engineer Bootcamp - Digital Skola
 Quality Assurance Automation Bootcamp - Sanbercode
 
@@ -93,13 +94,13 @@ Topic:
 * Mobile automation (Appium)
 * Web Automation (Cypress, Webdriver IO, Katalon)
 * API automation (Mocha & Chai)
-* * Performance Test (k6)
+* Performance Test (k6)
 
 [Link to the certificate](....)
 
-## Examples of my work 🔬
-[Test Plan](https://drive.google.com/file/d/1KOF2en0d_FrZp8iSeLrPYc7nstS-rtZV/view?usp=sharing).
-[Test Case](https://drive.google.com/file/d/1tZjlrqzS8ZvuVXNvQa0powILpFuDi9UT/view?usp=drive_link).
-[Bug Report](https://drive.google.com/file/d/1C5kck1_y8XXsWUvbh0USq0_Ac31KRhM9/view?usp=sharing).
+## Examples of my work
+[Test Plan](https://drive.google.com/file/d/1KOF2en0d_FrZp8iSeLrPYc7nstS-rtZV/view?usp=sharing)
+[Test Case](https://drive.google.com/file/d/1tZjlrqzS8ZvuVXNvQa0powILpFuDi9UT/view?usp=drive_link)
+[Bug Report](https://drive.google.com/file/d/1C5kck1_y8XXsWUvbh0USq0_Ac31KRhM9/view?usp=sharing)
 
 
