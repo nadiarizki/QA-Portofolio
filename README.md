@@ -7,9 +7,9 @@
 - [Soft Skills](#soft-skills)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Test Plan](*test-plan)
-  * [Test Cases](*test-cases)
-  * [Bug Report](*bug-report)
+  * [Test Plan](#examples-of-my-work)
+  * [Test Cases](#examples-of-my-work)
+  * [Bug Report](#examples-of-my-work)
 
 
 
