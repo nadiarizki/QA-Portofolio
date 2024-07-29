@@ -21,8 +21,10 @@ To stay ahead in the dynamic field of QA and to pursuit career growth, I have st
 [My Linkedin profile](https://www.linkedin.com/in/nadia-rizki/)
 
 
-My experience 🏢
-Being 
+My experience 
+With 4 years in manual testing, I have worked extensively in both logistics and fintech sectors. At a logistics company, I tested both mobile applications for drivers and a web portal for operators. This role involved identifying bugs, reporting issues, and collaborating with development teams to enhance software functionality and user experience.
+
+In my role as a Quality Assurance Analyst at a fintech company, I specialized in testing internal finance systems and payment gateway integrations with merchants. My work included developing and executing test cases to ensure seamless and accurate payment processing. These experiences have provided me with a broad skill set and a deep understanding of various industry requirements.
 
 
 ## Tools
