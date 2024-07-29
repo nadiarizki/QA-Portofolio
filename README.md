@@ -2,8 +2,9 @@
 
 - [About me](#about-me)
 - [Experience](#my-experience)
-- [Technical Skills](#technical-skill)
 - [Tools](#tools)
+- [Technical Skills](#technical-skills)
+- [Soft Skills](#soft-skills)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
   * [Test Plan](#test-plan)
@@ -109,7 +110,7 @@ Bootcamp (16 sessions/8 weeks) in Automation testing, covering skills in web, AP
 
 ## Examples of my work
 * [Test Plan](https://drive.google.com/file/d/1KOF2en0d_FrZp8iSeLrPYc7nstS-rtZV/view?usp=sharing)
-* [Test Case](https://drive.google.com/file/d/1tZjlrqzS8ZvuVXNvQa0powILpFuDi9UT/view?usp=drive_link)
+* [Test Cases](https://drive.google.com/file/d/1tZjlrqzS8ZvuVXNvQa0powILpFuDi9UT/view?usp=drive_link)
 * [Bug Report](https://drive.google.com/file/d/1C5kck1_y8XXsWUvbh0USq0_Ac31KRhM9/view?usp=sharing)
 
 
