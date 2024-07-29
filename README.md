@@ -37,13 +37,11 @@ In my role as a Quality Assurance Analyst at a fintech company, I specialized in
 * Chucker - analyze logs and API response from mobile app
 * gchat - communication within the team
 * Sequence Ace - SQL database
-* Git - for better work in development team and controlling software versions
-* GitHub - supporting Git and preparing my repositories
 * Postman - API testing
 * Katalon Sudio - Web and automation testing
-* Bamboo - for ru
-* Source Tree
-* Intelij
+* Bamboo - run automation test
+* Intelij - run automation test locally
+* Source Tree - supporting Git 
 
 
 
