@@ -82,14 +82,15 @@ __QA Engineer Bootcamp__
 *bootcamp by Digital Skola*  
 Mini bootcamp (11 sessions/4 weeks) in Automation testing, covering skills in web, API and perfomance automation test.   
 
-[Link to the certificate](...)
-
+#### Topic:
 * Testing skill & bugs management
 * GIT
 * programming basic-fundamental (JavaScript)
 * Web automation (WebDriverIO)
 * API automation (Super Test)
 * Load test (Jmeter)
+
+[Link to the certificate](...)
 
 
 __Quality Assurance Automation__  
@@ -104,6 +105,7 @@ Bootcamp (16 sessions/8 weeks) in Automation testing, covering skills in web, AP
 * Performance Test (k6)
 
 [Link to the certificate](....)
+
 
 ## Examples of my work
 * [Test Plan](https://drive.google.com/file/d/1KOF2en0d_FrZp8iSeLrPYc7nstS-rtZV/view?usp=sharing)
