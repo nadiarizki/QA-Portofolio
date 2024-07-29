@@ -28,20 +28,20 @@ In my role as a Quality Assurance Analyst at a fintech company, I specialized in
 
 
 ## Tools
-Jira & SVN - project management and bug tracking
-Cucumber Studio - write test cases in Gherkin language
-Confluence - storing informations and documents about project
-Chrome Devtools - for better testing and improving bug reports
-Chucker - analyze logs and API response from mobile app
-gchat - communication within the team
-Sequence Ace - SQL database
-Git - for better work in development team and controlling software versions
-GitHub - supporting Git and preparing my repositories
-Postman - API testing
-Katalon Sudio - Web and automation testing
-Bamboo - for ru
-Source Tree
-Intelij
+* Jira & SVN - project management and bug tracking
+* Cucumber Studio - write test cases in Gherkin language
+* Confluence - storing informations and documents about project
+* Chrome Devtools - for better testing and improving bug reports
+* Chucker - analyze logs and API response from mobile app
+* gchat - communication within the team
+* Sequence Ace - SQL database
+* Git - for better work in development team and controlling software versions
+* GitHub - supporting Git and preparing my repositories
+* Postman - API testing
+* Katalon Sudio - Web and automation testing
+* Bamboo - for ru
+* Source Tree
+* Intelij
 
 
 ## Technical Skills
@@ -102,9 +102,9 @@ Topic:
 [Link to the certificate](....)
 
 ## Examples of my work
-[Test Plan](https://drive.google.com/file/d/1KOF2en0d_FrZp8iSeLrPYc7nstS-rtZV/view?usp=sharing)
-[Test Case](https://drive.google.com/file/d/1tZjlrqzS8ZvuVXNvQa0powILpFuDi9UT/view?usp=drive_link)
-[Bug Report](https://drive.google.com/file/d/1C5kck1_y8XXsWUvbh0USq0_Ac31KRhM9/view?usp=sharing)
+* [Test Plan](https://drive.google.com/file/d/1KOF2en0d_FrZp8iSeLrPYc7nstS-rtZV/view?usp=sharing)
+* [Test Case](https://drive.google.com/file/d/1tZjlrqzS8ZvuVXNvQa0powILpFuDi9UT/view?usp=drive_link)
+* [Bug Report](https://drive.google.com/file/d/1C5kck1_y8XXsWUvbh0USq0_Ac31KRhM9/view?usp=sharing)
 
 
 
