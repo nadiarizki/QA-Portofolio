@@ -21,10 +21,12 @@ To stay ahead in the dynamic field of QA and to pursuit career growth, I have st
 [My Linkedin profile](https://www.linkedin.com/in/nadia-rizki/)
 
 
+
 ## My experience 
 With 4 years in manual testing, I have worked extensively in both logistics and fintech sectors. At a logistics company, I tested both mobile applications for drivers and a web portal for operators. This role involved identifying bugs, reporting issues, and collaborating with development teams to enhance software functionality and user experience. This experience allowed me to develop strong adaptability and communication skills in English, as I collaborated with teams across different regions and managed diverse testing scenarios.
 
 In my role as a Quality Assurance Analyst at a fintech company, I specialized in testing internal finance systems and payment gateway integrations with merchants. My work included developing and executing test cases to ensure seamless and accurate payment processing. These experiences have provided me with a broad skill set and a deep understanding of various industry requirements.
+
 
 
 ## Tools
@@ -44,6 +46,7 @@ In my role as a Quality Assurance Analyst at a fintech company, I specialized in
 * Intelij
 
 
+
 ## Technical Skills
 * Perform manual functional and usability testing of web and mobile application
 * write comprehensive and efficient test cases in gherkin language
@@ -51,11 +54,13 @@ In my role as a Quality Assurance Analyst at a fintech company, I specialized in
 * Create bug reports and provide detailed session reports
 
 
+
 ## Soft skills
 * Detail oriented
 * Adaptibility
 * Time management
 * Analytical skill
+
 
 
 ## Courses 
@@ -68,7 +73,7 @@ An intensive course in Web automation with Katalon Studio.
 [Link to the certificate of the Level 1](..)  
 *in progress*
 
-Topic:
+### Topic:
 * Web application automation and test framework
 * Mouse and keyboard action for automation
 * Handling the actions which can be perform on the browser for automation
@@ -78,6 +83,7 @@ Topic:
 __QA Engineer Bootcamp__  
 *bootcamp by Digital Skola*  
 Mini bootcamp (11 sessions/4 weeks) in Automation testing, covering skills in web, API and perfomance automation test.   
+
 [Link to the certificate](...)
 
 * Testing skill & bugs management
@@ -92,7 +98,7 @@ __Quality Assurance Automation__
 *bootcamp by Sanbercode*  
 Bootcamp (16 sessions/8 weeks) in Automation testing, covering skills in web, API, Mobile and perfomance automation test with various tools.   
 
-Topic:
+### Topic:
 * Javascipt 
 * Mobile automation (Appium)
 * Web Automation (Cypress, Webdriver IO, Katalon)
