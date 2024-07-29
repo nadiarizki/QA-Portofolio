@@ -73,7 +73,7 @@ An intensive course in Web automation with Katalon Studio.
 [Link to the certificate of the Level 1](..)  
 *in progress*
 
-### Topic:
+# Topic:
 * Web application automation and test framework
 * Mouse and keyboard action for automation
 * Handling the actions which can be perform on the browser for automation
@@ -98,7 +98,7 @@ __Quality Assurance Automation__
 *bootcamp by Sanbercode*  
 Bootcamp (16 sessions/8 weeks) in Automation testing, covering skills in web, API, Mobile and perfomance automation test with various tools.   
 
-### Topic:
+# Topic:
 * Javascipt 
 * Mobile automation (Appium)
 * Web Automation (Cypress, Webdriver IO, Katalon)
