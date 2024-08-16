@@ -53,6 +53,9 @@ In my role as a Quality Assurance Analyst at a fintech company, I specialized in
 * Perform manual testing of API using Postman
 * Create bug reports and provide detailed session reports
 * SQL database
+* API testing using Supertest
+* Performance testing using Jmeter
+
 
 
 ## Soft skills
