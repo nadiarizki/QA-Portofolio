@@ -81,7 +81,7 @@ Mini bootcamp (11 sessions/4 weeks) in Automation testing, covering skills in we
 
 #### Topic:
 * Testing skill & bugs management
-* GIT
+* GIT Version Management
 * programming basic-fundamental (JavaScript)
 * Web automation (WebDriverIO)
 * API automation (Super Test)
