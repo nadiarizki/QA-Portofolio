@@ -32,23 +32,23 @@ In my role as a Quality Assurance Analyst at a fintech company, I specialized in
 
 ## Tools
 * Jira & SVN - project management and bug tracking
-* Cucumber Studio - write test cases in Gherkin language
+* Cucumber Studio - write test cases in Gherkin language (BDD)
 * Confluence - storing informations and documents about project
 * Chrome Devtools - for better testing and improving bug reports
 * Chucker - analyze logs and API response from mobile app
 * gchat - communication within the team
-* Sequence Ace - for verifying data on database
+* Sequence Ace - for verifying data on database (SQL)
 * Postman - API testing
-* Katalon Sudio - Web and automation testing
-* Bamboo - run automation test
+* Bamboo - run automation test and verify results on Allure report
 * Intelij - run automation test locally
 * Source Tree - pull the latest version of automation script to local
-
-
+* Katalon Sudio - write Web automation script
+* SuperTest, Mocha, Chai, Mochawesome - write automation script
+* 
 
 ## Technical Skills
 * Perform manual functional and usability testing of web and mobile application
-* write comprehensive and efficient test cases in gherkin language
+* Write comprehensive and efficient test cases in gherkin language
 * Perform manual testing of API using Postman
 * Create bug reports and provide detailed session reports
 
@@ -61,16 +61,12 @@ In my role as a Quality Assurance Analyst at a fintech company, I specialized in
 * Analytical skill
 
 
-
 ## Courses 
 QA Engineer Bootcamp - Digital Skola
-Quality Assurance Automation Bootcamp - Sanbercode
 
 __Automation Testing using Selenium Katalon Studio__  
 *online courses by [Udemy]([https://www.udemy.com/user/bryanl/](https://www.udemy.com/course/automation-testing-using-selenium-katalon-studio/?couponCode=KEEPLEARNING)*  
 An intensive course in Web automation with Katalon Studio.  
-[Link to the certificate of the Level 1](..)  
-*in progress*
 
 #### Topic:
 * Web application automation and test framework
@@ -79,7 +75,7 @@ An intensive course in Web automation with Katalon Studio.
 * Test Suite creation and execution them in sequence/parallel
 * Continuous Integration
 
-__QA Engineer Bootcamp__  
+__QA Engineer Bootcamp (in progress)__  
 *bootcamp by Digital Skola*  
 Mini bootcamp (11 sessions/4 weeks) in Automation testing, covering skills in web, API and perfomance automation test.   
 
@@ -90,22 +86,6 @@ Mini bootcamp (11 sessions/4 weeks) in Automation testing, covering skills in we
 * Web automation (WebDriverIO)
 * API automation (Super Test)
 * Load test (Jmeter)
-
-[Link to the certificate](...)
-
-
-__Quality Assurance Automation__  
-*bootcamp by Sanbercode*  
-Bootcamp (16 sessions/8 weeks) in Automation testing, covering skills in web, API, Mobile and perfomance automation test with various tools.   
-
-#### Topic:
-* Javascipt 
-* Mobile automation (Appium)
-* Web Automation (Cypress, Webdriver IO, Katalon)
-* API automation (Mocha & Chai)
-* Performance Test (k6)
-
-[Link to the certificate](....)
 
 
 ## Examples of my work
