@@ -44,14 +44,15 @@ In my role as a Quality Assurance Analyst at a fintech company, I specialized in
 * Source Tree - pull the latest version of automation script to local
 * Katalon Sudio - write Web automation script
 * SuperTest, Mocha, Chai, Mochawesome - write automation script
-* 
+* JavascriptL   * can write simple functions and algorithms
+
 
 ## Technical Skills
-* Perform manual functional and usability testing of web and mobile application
+* Perform manual functional testing of web and mobile application
 * Write comprehensive and efficient test cases in gherkin language
 * Perform manual testing of API using Postman
 * Create bug reports and provide detailed session reports
-
+* SQL database
 
 
 ## Soft skills
@@ -62,7 +63,6 @@ In my role as a Quality Assurance Analyst at a fintech company, I specialized in
 
 
 ## Courses 
-QA Engineer Bootcamp - Digital Skola
 
 __Automation Testing using Selenium Katalon Studio__  
 *online courses by [Udemy]([https://www.udemy.com/user/bryanl/](https://www.udemy.com/course/automation-testing-using-selenium-katalon-studio/?couponCode=KEEPLEARNING)*  
@@ -75,7 +75,7 @@ An intensive course in Web automation with Katalon Studio.
 * Test Suite creation and execution them in sequence/parallel
 * Continuous Integration
 
-__QA Engineer Bootcamp (in progress)__  
+__QA Engineer Bootcamp (on going)__  
 *bootcamp by Digital Skola*  
 Mini bootcamp (11 sessions/4 weeks) in Automation testing, covering skills in web, API and perfomance automation test.   
 
@@ -92,6 +92,7 @@ Mini bootcamp (11 sessions/4 weeks) in Automation testing, covering skills in we
 * [Test Plan](https://drive.google.com/file/d/1KOF2en0d_FrZp8iSeLrPYc7nstS-rtZV/view?usp=sharing)
 * [Test Cases](https://drive.google.com/file/d/1tZjlrqzS8ZvuVXNvQa0powILpFuDi9UT/view?usp=drive_link)
 * [Bug Report](https://drive.google.com/file/d/1C5kck1_y8XXsWUvbh0USq0_Ac31KRhM9/view?usp=sharing)
+* [API Automation](https://github.com/nadiarizki/api-automation)
 
 
 
