@@ -44,7 +44,7 @@ In my role as a Quality Assurance Analyst at a fintech company, I specialized in
 * Source Tree - pull the latest version of automation script to local
 * Katalon Sudio - write Web automation script
 * SuperTest, Mocha, Chai, Mochawesome - write automation script
-* JavascriptL   * can write simple functions and algorithms
+* Jmeter: performance test
 
 
 ## Technical Skills
@@ -92,7 +92,8 @@ Mini bootcamp (11 sessions/4 weeks) in Automation testing, covering skills in we
 * [Test Plan](https://drive.google.com/file/d/1KOF2en0d_FrZp8iSeLrPYc7nstS-rtZV/view?usp=sharing)
 * [Test Cases](https://drive.google.com/file/d/1tZjlrqzS8ZvuVXNvQa0powILpFuDi9UT/view?usp=drive_link)
 * [Bug Report](https://drive.google.com/file/d/1C5kck1_y8XXsWUvbh0USq0_Ac31KRhM9/view?usp=sharing)
-* [API Automation](https://github.com/nadiarizki/api-automation)
+* [API Testing and assertion with Postman](https://drive.google.com/file/d/1DvnlSQzGwHSP5un6R5-TLrcuNz6e2HBj/view?usp=sharing)
+* [API Automation with Supertest](https://github.com/nadiarizki/api-automation)
 
 
 
