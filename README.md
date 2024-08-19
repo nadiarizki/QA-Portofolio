@@ -97,6 +97,8 @@ Mini bootcamp (11 sessions/4 weeks) in Automation testing, covering skills in we
 * [Bug Report](https://drive.google.com/file/d/1C5kck1_y8XXsWUvbh0USq0_Ac31KRhM9/view?usp=sharing)
 * [API Testing with assertion using Postman](https://drive.google.com/file/d/1DvnlSQzGwHSP5un6R5-TLrcuNz6e2HBj/view?usp=sharing)
 * [API Automation using Supertest](https://github.com/nadiarizki/api-automation)
+* [Performace Test using Jmeter](https://drive.google.com/drive/folders/1nrSQDWMMoOOGw3Ril4AnXrs9N4Nx1yfh?usp=sharing)
+
 
 
 
