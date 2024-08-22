@@ -43,8 +43,9 @@ In my role as a Quality Assurance Analyst at a fintech company, I specialized in
 * Intelij - run automation test locally
 * Source Tree - pull the latest version of automation script to local
 * Katalon Sudio - write Web automation script
-* SuperTest, Mocha, Chai, Mochawesome - write automation script
-* Jmeter: performance test
+* SuperTest, Mocha, Chai, Mochawesome - write API automation script
+* Karate - write API automation script
+* Jmeter - performance test
 
 
 ## Technical Skills
