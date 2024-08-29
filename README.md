@@ -13,7 +13,7 @@
 ## About me
 Hi, my name is Nadia. I am a dedicated QA professional with 4 years of experience in software testing. My work has primarily involved testing web and mobile applications, allowing me to develop a keen eye for detail and a strong analytical skills to ensure high-quality software deliver. 
 
-To stay ahead in the dynamic field of QA and to pursuit career growth, I have started an intensive learning journey in automation testing by enrolling in a bootcamp, completing online courses and attending seminars. My aspiration is to evolve into a hybrid QA role, where I can leverage both manual and automated testing to enhance software quality. I am passionate about learning and innovation, ready to take on new challenges and contribute to cutting-edge projects.
+To stay ahead in the dynamic field of QA and to pursuit career growth, I have just completed an intensive learning journey in automation testing by enrolling in a bootcamp, completing online courses and attending seminars. My aspiration is to evolve into a hybrid QA role, where I can leverage both manual and automated testing to enhance software quality. I am passionate about learning and innovation, ready to take on new challenges and contribute to cutting-edge projects.
 
 
 [My Linkedin profile](https://www.linkedin.com/in/nadia-rizki/)
