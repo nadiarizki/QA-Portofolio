@@ -43,6 +43,8 @@ In my role as a Quality Assurance Analyst at a fintech company, I specialized in
 * Intelij - run automation test locally
 * Source Tree - pull the latest version of automation script to local
 * Katalon Sudio - write Web automation script
+* WebdriverIO - write Web automation script
+* Cucumber - 
 * SuperTest, Mocha, Chai, Mochawesome - write API automation script
 * Karate - write API automation script
 * Jmeter - performance test
@@ -87,6 +89,14 @@ Mini bootcamp (11 sessions/4 weeks) in Automation testing, covering skills in we
 * GIT Version Management
 * programming basic-fundamental (JavaScript)
 * Web automation (WebDriverIO and Cucumber)
+  * page object
+  * background keyword
+  * scenario outline
+  * feature tag and scenario tag
+  * cucumber hooks
+  * parallel execution
+  * take screenshot
+  * generate test report
 * API automation (SuperTestm, Mocha, Chai, Mochawsome)
 * Load test (Jmeter)
 
