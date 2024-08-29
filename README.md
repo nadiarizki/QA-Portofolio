@@ -123,6 +123,8 @@ Mini bootcamp (4 weeks) in Automation testing, covering skills in web and API au
 * [API Automation using Karate](https://github.com/nadiarizki/katate-api-automation)
 * [Performace Test using Jmeter](https://drive.google.com/drive/folders/1nrSQDWMMoOOGw3Ril4AnXrs9N4Nx1yfh?usp=sharing)
 * [Web Automation using WebdriverIO and Cucumber](https://github.com/nadiarizki/wdio-cucumber-web-automation)
+* [Web Automation using Katalon](https://github.com/nadiarizki/katalon-web-automation)
+
 
 
 
