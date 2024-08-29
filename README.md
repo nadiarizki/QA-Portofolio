@@ -102,11 +102,14 @@ Mini bootcamp (11 sessions/4 weeks) in Automation testing, covering skills in we
   * use Mocha for test execution
   * use Chai for assertion
   * use Mochawsome to generate HTML Report 
-
 * Load test (Jmeter)
+  * create test plan, thread group, http sampler, lister
+  * response code, duration, json assertion
   * load test for GET and POST Request
   * assert data
-  * generate HTML report 
+  * generate HTML report
+  * percentile vs average response time
+
 
 
 ## Examples of my work
