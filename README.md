@@ -58,7 +58,6 @@ In my role as a Quality Assurance Analyst at a fintech company, I specialized in
 * Performance testing using Jmeter
 
 
-
 ## Soft skills
 * Detail oriented
 * Adaptibility
@@ -87,8 +86,8 @@ Mini bootcamp (11 sessions/4 weeks) in Automation testing, covering skills in we
 * Testing skill & bugs management
 * GIT Version Management
 * programming basic-fundamental (JavaScript)
-* Web automation (WebDriverIO)
-* API automation (Super Test)
+* Web automation (WebDriverIO and Cucumber)
+* API automation (SuperTestm, Mocha, Chai, Mochawsome)
 * Load test (Jmeter)
 
 
@@ -100,7 +99,7 @@ Mini bootcamp (11 sessions/4 weeks) in Automation testing, covering skills in we
 * [API Automation using Supertest](https://github.com/nadiarizki/supertest-api-automation)
 * [API Automation using Karate](https://github.com/nadiarizki/katate-api-automation)
 * [Performace Test using Jmeter](https://drive.google.com/drive/folders/1nrSQDWMMoOOGw3Ril4AnXrs9N4Nx1yfh?usp=sharing)
-* [API Automation using Karate](https://github.com/nadiarizki/wdio-cucumber-web-automation)
+* [Web Automation using WebdriverIO and Cucumber](https://github.com/nadiarizki/wdio-cucumber-web-automation)
 
 
 
