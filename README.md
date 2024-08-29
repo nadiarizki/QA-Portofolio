@@ -25,6 +25,8 @@ With 4 years in manual testing, I have worked extensively in both logistics and 
 
 In my role as a Quality Assurance Analyst at a fintech company, I specialized in testing internal finance systems and payment gateway integrations with merchants. My work included developing and executing test cases to ensure seamless and accurate payment processing. These experiences have provided me with a broad skill set and a deep understanding of various industry requirements.
 
+In my first job as a fresh graduate, I worked as a penetration tester, where I learned to identify security vulnerabilities using Nessus. This experience further solidified my expertise in software testing and security.
+
 
 
 ## Tools
@@ -47,17 +49,18 @@ In my role as a Quality Assurance Analyst at a fintech company, I specialized in
 
 
 ## Technical Skills
-* Perform manual functional testing of web and mobile application
-* Write comprehensive and efficient test cases in gherkin language
+* Write comprehensive and efficient test cases in gherkin format
 * Perform manual testing of API using Postman
+* Perform manual/automated testing of web and mobile application
 * Create bug reports and provide detailed session reports
-* SQL database
-* API testing using Supertest
+* API autoation test using Supertest, Karate
+* Web automation test using WebdriverIO and Cucumber
 * Performance testing using Jmeter
+* good knowledge of Database concept, Git workflow and Scrum methodology
 
 
 ## Soft skills
-* Detail oriented
+* Detail-oriented
 * Adaptibility
 * Time management
 * Analytical skill
