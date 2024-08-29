@@ -79,11 +79,11 @@ An intensive course in Web automation with Katalon Studio.
 * Test Suite creation and execution them in sequence/parallel
 * Continuous Integration
 
-__QA Engineer Bootcamp (on going)__  
+__QA Engineer Bootcamp__  
 *bootcamp by Digital Skola*  
 Mini bootcamp (11 sessions/4 weeks) in Automation testing, covering skills in web, API and perfomance automation test.   
 
-#### Topic:
+#### What i've learned:
 * GIT Version Management
   * implement cherry pick, rebase, revert, etc 
 * programming basic-fundamental (JavaScript)
