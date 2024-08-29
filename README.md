@@ -84,9 +84,10 @@ __QA Engineer Bootcamp (on going)__
 Mini bootcamp (11 sessions/4 weeks) in Automation testing, covering skills in web, API and perfomance automation test.   
 
 #### Topic:
-* Testing skill & bugs management
 * GIT Version Management
+  * implement cherry pick, rebase, revert, etc 
 * programming basic-fundamental (JavaScript)
+  * implement looping, conditional statement, function, exception handling
 * API Testing (Postman)
   * use environment to set variable
   * use and postscript to validate response code, data and json schema
