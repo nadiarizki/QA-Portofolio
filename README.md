@@ -87,14 +87,17 @@ Mini bootcamp (11 sessions/4 weeks) in Automation testing, covering skills in we
 * Testing skill & bugs management
 * GIT Version Management
 * programming basic-fundamental (JavaScript)
+* API Testing (Postman)
+  * use environment to set variable
+  * use and postscript to validate response code, data and json schema
 * Web automation (WebDriverIO and Cucumber)
-  * page object model
-  * gherkin test case
-  * background keyword
-  * scenario outline
-  * feature tag and scenario tag
-  * cucumber hooks
-  * parallel execution
+  * use page object model to store web element and function
+  * use gherkin format to write test case case
+  * use background keyword for precondition
+  * use scenario outline to test dataset
+  * use feature tag and scenario tag to run specific scenario
+  * use cucumber hooks to take screenshot
+  * parallel execution on multiple browser
   * take screenshot
   * generate test report
 * API automation (Supertest, Mocha, Chai, Mochawsome)
@@ -103,12 +106,10 @@ Mini bootcamp (11 sessions/4 weeks) in Automation testing, covering skills in we
   * use Chai for assertion
   * use Mochawsome to generate HTML Report 
 * Load test (Jmeter)
-  * create test plan, thread group, http sampler, lister
-  * response code, duration, json assertion
-  * load test for GET and POST Request
-  * assert data
+  * create test plan, thread group, http sampler, listener
+  * assert response code, duration, json assertion
   * generate HTML report
-  * percentile vs average response time
+  * check percentile vs average response time
 
 
 
