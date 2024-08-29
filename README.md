@@ -72,7 +72,7 @@ __Automation Testing using Selenium Katalon Studio__
 *online courses by [Udemy]([https://www.udemy.com/user/bryanl/](https://www.udemy.com/course/automation-testing-using-selenium-katalon-studio/?couponCode=KEEPLEARNING)*  
 An intensive course in Web automation with Katalon Studio.  
 
-#### Topic:
+#### What I've learned:
 * Web application automation and test framework
 * Mouse and keyboard action for automation
 * Handling the actions which can be perform on the browser for automation
