@@ -21,11 +21,11 @@ To stay ahead in the dynamic field of QA and to pursuit career growth, I have ju
 
 
 ## My experience 
-With 4 years in manual testing, I have worked extensively in both logistics and fintech sectors. At a logistics company, I tested both mobile applications for drivers and a web portal for operators. This role involved identifying bugs, reporting issues, and collaborating with development teams to enhance software functionality and user experience. This experience allowed me to develop strong adaptability and communication skills in English, as I collaborated with teams across different regions and managed diverse testing scenarios.
+With 4 years in manual testing, I have worked extensively in both logistics and fintech sectors. At a logistics company, I tested both mobile applications for drivers and a web portal for operators focusing on the first-mile (pickup parcel) process. This role involved identifying bugs, reporting issues, and collaborating with development teams to enhance software functionality and user experience. This experience allowed me to develop strong adaptability and communication skills in English, as I collaborated with teams across different regions and managed diverse testing scenarios.
 
 In my role as a Quality Assurance Analyst at a fintech company, I specialized in testing internal finance systems and payment gateway integrations with merchants. My work included developing and executing test cases to ensure seamless and accurate payment processing. These experiences have provided me with a broad skill set and a deep understanding of various industry requirements.
 
-In my first job as a fresh graduate, I worked as a penetration tester, where I learned to identify security vulnerabilities using Nessus. This experience further solidified my expertise in software testing and security.
+In my first job as a fresh graduate, I worked as a penetration tester at a cryptocurrency exchange start up, where I learned to identify security vulnerabilities using Nessus. This experience further solidified my expertise in software testing and security.
 
 
 
