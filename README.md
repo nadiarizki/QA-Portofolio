@@ -81,7 +81,7 @@ An intensive course in Web automation with Katalon Studio.
 
 __QA Engineer Bootcamp__  
 *bootcamp by Digital Skola*  
-Mini bootcamp (11 sessions/4 weeks) in Automation testing, covering skills in web, API and perfomance automation test.   
+Mini bootcamp (4 weeks) in Automation testing, covering skills in web and API automation test and performance test  
 
 #### What i've learned:
 * GIT Version Management
