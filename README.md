@@ -6,7 +6,7 @@
 - [Technical Skills](#technical-skills)
 - [Soft Skills](#soft-skills)
 - [Courses](#courses)
-- [Examples of my work](#examples-of-my-work)
+- [Examples of my work (manual and automation](#examples-of-my-work)
 
 
 
@@ -137,6 +137,8 @@ Bootcamp (8 weeks) in Automation testing, covering skills in web and API automat
 * [Performace Test using Jmeter](https://drive.google.com/drive/folders/1nrSQDWMMoOOGw3Ril4AnXrs9N4Nx1yfh?usp=sharing)
 * [Web Automation using WebdriverIO and Cucumber](https://github.com/nadiarizki/wdio-cucumber-web-automation)
 * [Web Automation using Katalon](https://github.com/nadiarizki/katalon-web-automation)
+* [Web Automation using Cypress](https://github.com/nadiarizki/Sanbercode-cypress-web-automation/)
+
 
 
 
