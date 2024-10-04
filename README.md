@@ -6,7 +6,7 @@
 - [Technical Skills](#technical-skills)
 - [Soft Skills](#soft-skills)
 - [Courses](#courses)
-- [Examples of my work (manual and automation](#examples-of-my-work)
+- [Examples of my work (manual and automation)](#examples-of-my-work)
 
 
 
