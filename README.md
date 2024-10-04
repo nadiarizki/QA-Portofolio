@@ -43,6 +43,7 @@ In my first job as a fresh graduate, I worked as a penetration tester at a crypt
 * Source Tree - pull the latest version of automation script to local
 * Katalon Sudio - write Web automation script
 * WebdriverIO and Cucumber - write Web automation script
+* Cypress - write Web automation script
 * SuperTest, Mocha, Chai, Mochawesome - write API automation script
 * Karate - write API automation script
 * Jmeter - performance test
