@@ -117,6 +117,11 @@ Mini bootcamp (4 weeks) in Automation testing, covering skills in web and API au
 __Quality Assurance Automation (on going)__  
 *bootcamp by Sanbercode*  
 Bootcamp (8 weeks) in Automation testing, covering skills in web and API automation test and performance test  
+#### What i've learned:
+* Web automation using Cypress and Mochawsome Reporter
+* Web automation using Katalon
+
+
 
 
 
