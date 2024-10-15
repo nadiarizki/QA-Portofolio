@@ -88,7 +88,7 @@ Mini bootcamp (4 weeks) in Automation testing, covering skills in web and API au
 
 #### Topic:
 * GIT Version Management
-* programming basic-fundamental (JavaScript)
+* programming fundamental (JavaScript)
   * implement looping, conditional statement, function, exception handling
 * API Testing (Postman)
   * use environment to set variable
