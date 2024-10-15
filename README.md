@@ -115,12 +115,13 @@ Mini bootcamp (4 weeks) in Automation testing, covering skills in web and API au
   * generate HTML report
   * check percentile vs average response time
  
-__Quality Assurance Automation (on going)__  
+__Quality Assurance Automation__  
 *bootcamp by Sanbercode*  
 Bootcamp (8 weeks) in Automation testing, covering skills in web and API automation test and performance test  
 #### What i've learned:
 * Web automation using Cypress and Mochawsome Reporter
 * Web automation using Katalon
+* Performance testing using K6
 
 
 
