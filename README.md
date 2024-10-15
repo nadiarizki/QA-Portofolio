@@ -86,9 +86,8 @@ Mini bootcamp (4 weeks) in Automation testing, covering skills in web and API au
 * [certificate](https://drive.google.com/file/d/1JDWaZItFy63r74-kSiEMyO5O94SSUp3Q/view?usp=sharing)
 * [final report](https://drive.google.com/file/d/1toYRXnz_yJ2fzQKYHipx7mEM3FWSpStw/view?usp=sharing)
 
-#### What i've learned:
+#### Topic:
 * GIT Version Management
-  * implement cherry pick, rebase, revert, etc 
 * programming basic-fundamental (JavaScript)
   * implement looping, conditional statement, function, exception handling
 * API Testing (Postman)
@@ -105,7 +104,7 @@ Mini bootcamp (4 weeks) in Automation testing, covering skills in web and API au
   * use Mochawsome to generate HTML Report 
 * Load test (Jmeter)
  
-__Quality Assurance Automation__  
+__Quality Assurance Automation bootcamp__  
 *bootcamp by Sanbercode*  
 Bootcamp (8 weeks) in Automation testing, covering skills in web and API automation test and performance test  
 #### Topic:
