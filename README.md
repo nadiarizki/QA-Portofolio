@@ -73,7 +73,7 @@ __Automation Testing using Selenium Katalon Studio__
 *online courses by [Udemy]([https://www.udemy.com/user/bryanl/](https://www.udemy.com/course/automation-testing-using-selenium-katalon-studio/?couponCode=KEEPLEARNING)*  
 An intensive course in Web automation with Katalon Studio.  
 
-#### What I've learned:
+#### Topic:
 * Web application automation and test framework
 * Mouse and keyboard action for automation
 * Handling the actions which can be perform on the browser for automation
@@ -97,36 +97,21 @@ Mini bootcamp (4 weeks) in Automation testing, covering skills in web and API au
 * Web automation (WebDriverIO and Cucumber)
   * use page object model to store web element and function
   * use gherkin format to write test case case
-  * use background keyword for precondition
-  * use scenario outline to test dataset
-  * use feature tag and scenario tag to run specific scenario
-  * use cucumber hooks to take screenshot
-  * parallel execution on multiple browser
-  * take screenshot
-  * generate test report
+  * generate allure report
 * API automation (Supertest, Mocha, Chai, Mochawsome)
   * use Supertest for API test
   * use Mocha for test execution
   * use Chai for assertion
   * use Mochawsome to generate HTML Report 
 * Load test (Jmeter)
-  * create test plan, thread group, http sampler, listener
-  * assert response code, duration, json assertion
-  * generate HTML report
-  * check percentile vs average response time
  
 __Quality Assurance Automation__  
 *bootcamp by Sanbercode*  
 Bootcamp (8 weeks) in Automation testing, covering skills in web and API automation test and performance test  
-#### What i've learned:
-* Web automation using Cypress and Mochawsome Reporter
+#### Topic:
+* Web automation using Cypress and Mochawesome Reporter
 * Web automation using Katalon
 * Performance testing using K6
-
-
-
-
-
 
 
 ## Examples of my work
@@ -137,10 +122,10 @@ Bootcamp (8 weeks) in Automation testing, covering skills in web and API automat
 * [API Automation using Supertest](https://github.com/nadiarizki/supertest-api-automation)
 * [API Automation using Karate](https://github.com/nadiarizki/katate-api-automation)
 * [Performace Test using Jmeter](https://drive.google.com/drive/folders/1nrSQDWMMoOOGw3Ril4AnXrs9N4Nx1yfh?usp=sharing)
-* [Web Automation using WebdriverIO and Cucumber](https://github.com/nadiarizki/wdio-cucumber-web-automation)
+* [Web Automation using WebdriverIO and Cucumber](https://github.com/nadiarizki/sanbercode-webdriverIO-cucumber-web-automation)
 * [Web Automation using Katalon](https://github.com/nadiarizki/katalon-web-automation)
 * [Web Automation using Cypress](https://github.com/nadiarizki/Sanbercode-cypress-web-automation/)
-
+* [Performance Testing using K6](https://github.com/nadiarizki/k6-performace-test)
 
 
 
