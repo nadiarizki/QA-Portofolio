@@ -47,6 +47,8 @@ In my first job as a fresh graduate, I worked as a penetration tester at a crypt
 * SuperTest, Mocha, Chai, Mochawesome - write API automation script
 * Karate - write API automation script
 * Jmeter - performance test
+* K6 - performance test
+
 
 
 ## Technical Skills
@@ -56,7 +58,7 @@ In my first job as a fresh graduate, I worked as a penetration tester at a crypt
 * Create bug reports and provide detailed session reports
 * API autoation test using Supertest, Karate
 * Web automation test using WebdriverIO and Cucumber
-* Performance testing using Jmeter
+* Performance testing using Jmeter and K6
 * good knowledge of Database concept, Git workflow and Scrum methodology
 
 
